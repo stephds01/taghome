@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../assets/img/fotolia_49618763.png");
+    background-color: #b5ccc4;
+
+    font-family: 'Vollkorn','Helvetica', serif;
+    font-size: 16px;
+    color:  #def5ff;
+}
+h2, h3 {
+    color: #F47C3C;
+    padding-bottom: 20px;
+}
+
+a {
+    color: #ffffff;
+}
+a:hover {
+    color: #f46f08;
+    text-decoration: none;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+.alignementHauteur {
+    line-height: 2;
+    padding-left: 10px;
+}
+
+img {
+    margin-right: 20px;
+}
+
+.container {
+    margin:0 auto;
+}
+
+
+.ls-header{
+    background-color: #333;
+    margin-top: 0;
+
+}
+.ls-header .logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ls-header h1{
+    display: inline-block;
+    margin-left: 44%;
+    color: #f47c3c;
+}
+nav {
+    line-height: 3;
+    padding-right: 20px;
+}
+
+nav a{
+    margin-left: 5%;
+    color:  #F47C3C;
+}
+
+
+.navbar-inverse {
+    background-color: #333;
+    border-color: #080808;
+}
+
+footer, .presentation, .contact, .document {
+    background-color: #333;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+
+section.presentation, section.contact, section.document{
+    padding: 10px 20px;
+}
+
+
+section.contact {
+    margin-top: 40px;
+}
+.contact i {
+    color: #F47C3C;
+    margin-left: 10px;
+}
+.contact .titre {
+    color: #F47C3C;
+}
+.contact a {
+    color: #f46f08;
+    text-decoration: none;
+}
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    color: #F47C3C;
+    line-height: 2;
+}
+
+
+
+.mention {
+    float: right;
+    padding-right:48px;
+}
+
+.document div {
+    display: block;
+}
+
+.document i {
+    color: red;
+}
