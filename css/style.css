@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("../assets/img/fotolia_49618763.png");
+    background-image: url("../assets/img/carrelage1777x1111.jpg");
     background-color: #b5ccc4;
 
     font-family: 'Vollkorn','Helvetica', serif;
@@ -45,7 +45,7 @@ img {
 
 .ls-header{
     background-color: #333;
-    margin-top: 0;
+    margin-top: 60px;
 
 }
 .ls-header .logo{
