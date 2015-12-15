@@ -2,11 +2,11 @@ body {
     margin: 0;
     padding: 0;
     background-image: url("../assets/img/carrelage1777x1111.jpg");
-    background-color: #b5ccc4;
+    background-color: #ffffff;
 
     font-family: 'Vollkorn','Helvetica', serif;
     font-size: 16px;
-    color:  #ffffff;
+    color:  #def5ff;
 }
 h2, h3 {
     color: #F47C3C;
@@ -120,4 +120,11 @@ footer {
 
 .document i {
     color: red;
+}
+
+/*******Page en construction*******/
+
+.construction {
+    font-size: 25px;
+    color: #F47C3C;
 }
