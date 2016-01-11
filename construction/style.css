@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("../assets/img/carrelage1777x1111.jpg");
+    background-image: url("carrelage1777x1111.jpg");
     background-color: #ffffff;
 
     font-family: 'Vollkorn','Helvetica', serif;
@@ -53,6 +53,10 @@ blockquote {
 
 img {
     margin-right: 20px;
+}
+
+.centrage {
+    display: inline;
 }
 
 .container {
