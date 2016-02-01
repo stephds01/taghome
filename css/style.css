@@ -85,6 +85,11 @@ nav a{
     color:  #F47C3C;
 }
 
+nav a:hover{
+    margin-left: 5%;
+    color:  white;
+}
+
 
 .navbar-inverse {
     background-color: #333;
@@ -110,12 +115,21 @@ section.contact {
     color: #F47C3C;
     margin-left: 10px;
 }
+
+.contact i:hover {
+    color: white;
+    /*margin-left: 10px;*/
+}
 .contact .titre {
     color: #F47C3C;
 }
 .contact a {
     color: #f46f08;
     text-decoration: none;
+}
+.contact a:hover {
+    color: white;
+    /*text-decoration: none;*/
 }
 footer {
     margin-top: 20px;
@@ -138,6 +152,18 @@ footer {
 .document i {
     color: red;
 }
+
+/******Page Document    ***********/
+.document a {
+    color: white;
+    text-decoration: none;
+}
+
+.document a:hover {
+    color: #F47C3C;
+    text-decoration: none;
+}
+
 
 /*******Page en construction*******/
 
